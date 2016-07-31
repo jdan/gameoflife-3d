@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "canvas": "^1.4.0",
+    "gifencoder": "^1.0.6",
+    "isomer": "^0.2.6"
+  }
+}
